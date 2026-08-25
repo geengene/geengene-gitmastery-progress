@@ -171,5 +171,14 @@
       "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1787626669.669376,
+    "completed_at": 1787626670.993372,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
   }
 ]
