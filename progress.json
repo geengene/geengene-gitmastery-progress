@@ -252,5 +252,14 @@
       "\"first-pilot\" should be a lightweight tag, not an annotated tag."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787737447.413022,
+    "completed_at": 1787737450.729503,
+    "comments": [
+      "\"v1.0\" should point to the commit that updates March duty roster."
+    ],
+    "status": "Incomplete"
   }
 ]
