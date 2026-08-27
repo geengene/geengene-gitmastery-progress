@@ -504,15 +504,5 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "merge-undo",
-    "started_at": 1787855174.674075,
-    "completed_at": 1787855177.847447,
-    "comments": [
-      "It appears the merge commits are still in the history of the 'main' branch. This shouldn't be the case",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
